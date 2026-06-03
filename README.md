@@ -85,8 +85,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PASUPULASAITEJA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PASUPULASAITEJA&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PASUPULASAITEJA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180"/>
+<img src="https://streak-stats.demolab.com?user=PASUPULASAITEJA&theme=tokyonight&hide_border=true" height="180"/>
 
 <br/>
 
@@ -100,7 +100,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PASUPULASAITEJA&theme=onedark&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=PASUPULASAITEJA&theme=onedark&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
 
 </div>
 
@@ -110,7 +110,7 @@
 
 <div align="center">
 
-[![Sai Teja's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PASUPULASAITEJA&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PASUPULASAITEJA&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -120,7 +120,7 @@
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/PASUPULASAITEJA/count.svg)
+<img src="https://komarev.com/ghpvc/?username=PASUPULASAITEJA&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -128,7 +128,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Always+Learning%2C+Building+and+Improving+%F0%9F%9A%80;Open+to+Opportunities+%7C+Let's+Collaborate!" alt="Footer Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Always+Learning%2C+Building+and+Improving+🚀;Open+to+Opportunities+%7C+Let's+Collaborate!" alt="Footer Typing SVG" />
 
 <br/>
 
