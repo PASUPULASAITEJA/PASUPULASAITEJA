@@ -1,11 +1,10 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Sai+Teja+👋;Computer+Science+Student;Data+Science+Enthusiast;AWS+Cloud+Learner;LeetCode+Problem+Solver" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A84FF,100:00D9FF&height=200&section=header&text=PASUPULA%20SAI%20TEJA&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20Data%20Science%20%7C%20Cloud%20%7C%20ML&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=👋+Hey!+I'm+Sai+Teja;🎓+B.Tech+CS+(Data+Science)+%40+NMIMS;🤖+ML+%7C+AI+%7C+Cloud+Enthusiast;☁️+AWS+%26+GCP+Learner;🧩+LeetCode+Problem+Solver;🚀+Building+%7C+Learning+%7C+Growing" alt="Typing SVG" />
 
 </div>
 
@@ -13,15 +12,23 @@
 
 ## 🙋‍♂️ About Me
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-- 🎓 **B.Tech Computer Science (Data Science)** @ NMIMS University
-- 🌱 Passionate about **AI, Machine Learning, Cloud Computing & Data Analytics**
-- ☁️ Exploring **AWS & GCP** — working towards certifications
-- 💡 Love turning data into insights and ideas into products
-- 🧩 Regular **LeetCode** problem solver — sharpening DSA skills daily
-- 🚀 Fresher with a hunger to **build, learn & grow**
-- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/pasupula-sai-teja)**
+```yaml
+Name     : Pasupula Sai Teja
+Role     : CS Student | Data Science Enthusiast
+College  : NMIMS University
+Degree   : B.Tech Computer Science (Data Science)
+Location : India 🇮🇳
+Status   : Fresher | Open to Opportunities
+```
+
+🔭 Currently working on **AI & ML Projects**  
+🌱 Learning **AWS Cloud** and **GCP** certifications  
+💡 Interested in **Data Analytics, AI, Cloud Computing**  
+🧩 Solving **DSA problems** on LeetCode daily  
+💬 Ask me about **Python, ML, Data Science, C++**  
+📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/pasupula-sai-teja)**  
 
 <br clear="right"/>
 
@@ -29,30 +36,43 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+<div align="center">
+
+**Languages**
+
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🌐 Web Development
+**Web Development**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🤖 AI / ML
+**AI / Machine Learning**
+
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### ☁️ Cloud Platforms
+**Cloud Platforms**
+
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### 🧰 Tools & Platforms
+**Tools & Analytics**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</div>
 
 ---
 
@@ -61,21 +81,26 @@
 <div align="center">
 
 | 🏥 Blood Bridge | 🤖 AI Recruitment Assistant | 📊 Employee Performance Metrics |
-|:-:|:-:|:-:|
-| A smart platform connecting blood donors with recipients in real-time. Built to save lives through technology. | An intelligent recruitment tool powered by AI to streamline candidate evaluation and hiring decisions. | A data-driven dashboard to track, analyze, and visualize employee KPIs and performance trends. |
-| `Python` `MySQL` `HTML/CSS` | `Python` `ML` `NLP` | `Power BI` `Python` `Data Analytics` |
+|:---:|:---:|:---:|
+| Smart platform connecting blood donors with recipients in real-time. Built to save lives through technology. | Intelligent AI-powered recruitment tool to streamline candidate evaluation and hiring decisions. | Data-driven dashboard to track, analyze and visualize employee KPIs and performance trends. |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/-ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![NLP](https://img.shields.io/badge/-NLP-009688?style=flat-square) | ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🎯 Current Goals & Learning Path
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pasupula-sai-teja)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/PASUPULA_SAI_TEJA/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PASUPULASAITEJA)
+| Area | Goal | Status |
+|:---|:---|:---:|
+| ☁️ AWS Cloud | Cloud Practitioner Certification | 🔄 In Progress |
+| ☁️ Google Cloud | GCP Associate Engineer | 🔄 In Progress |
+| 🤖 Machine Learning | Advanced ML & Deep Learning | 🟢 Active |
+| 🧩 DSA | LeetCode — Daily Problem Solving | 🟢 Active |
+| 📊 Data Analytics | Power BI + Advanced SQL | 🟢 Active |
+| 🌐 Web Dev | Full Stack Projects | 🟢 Active |
 
 </div>
 
@@ -86,80 +111,56 @@
 <div align="center">
 
 <table>
-  <tr>
-    <td>
-      <img src="https://github-stats-alpha.vercel.app/api?username=PASUPULASAITEJA&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=PASUPULASAITEJA&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
+<tr>
+<td align="center">
+<img src="https://github-stats-alpha.vercel.app/api?username=PASUPULASAITEJA&cc=0D1117&tc=00D9FF&ic=0A84FF&bc=30363d" alt="GitHub Stats"/>
+</td>
+<td align="center">
+<img src="https://streak-stats.demolab.com?user=PASUPULASAITEJA&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="Streak Stats"/>
+</td>
+</tr>
 </table>
 
-<br/>
+</div>
 
-### 🗣️ Most Used Languages
+---
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PASUPULASAITEJA&theme=tokyo-night&hide_border=true&area=true&area_color=00D9FF&line=0A84FF&point=00D9FF" alt="Contribution Graph" width="100%"/>
 
 </div>
 
 ---
 
-## 🏆 Achievements & Highlights
+## 🤝 Connect With Me
 
 <div align="center">
 
-| 🎯 Focus Areas | 📌 Status |
-|:---|:---|
-| 🤖 Machine Learning & AI | 🟢 Actively Learning |
-| ☁️ AWS Cloud Practitioner | 🟡 In Progress |
-| ☁️ Google Cloud (GCP) | 🟡 In Progress |
-| 💻 Data Structures & Algorithms | 🟢 LeetCode Practice |
-| 📊 Data Analytics & Power BI | 🟢 Project Experience |
-| 🌐 Full Stack Web Development | 🟢 Working Knowledge |
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PASUPULASAITEJA&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-## 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=PASUPULASAITEJA&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Always+Learning%2C+Building+and+Improving+🚀;Open+to+Opportunities+%7C+Let's+Collaborate!" alt="Footer Typing SVG" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pasupula-sai-teja)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/PASUPULA_SAI_TEJA/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PASUPULASAITEJA)
 
 <br/>
 
-*"The best way to predict the future is to build it."*
+<img src="https://komarev.com/ghpvc/?username=PASUPULASAITEJA&label=Profile+Views&color=0A84FF&style=for-the-badge" alt="Profile Views" />
 
-⭐ **From [PASUPULASAITEJA](https://github.com/PASUPULASAITEJA)** — Thanks for visiting!
+</div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=✨+Always+Learning%2C+Building+and+Improving+🚀;💼+Open+to+Internships+%26+Opportunities;🤝+Let's+Collaborate+and+Build+Something+Amazing!" alt="Footer" />
+
+<br/><br/>
+
+> *"The best way to predict the future is to build it."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0A84FF,100:0D1117&height=120&section=footer" />
 
 </div>
