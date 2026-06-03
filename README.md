@@ -98,7 +98,16 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PASUPULASAITEJA&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
+### 🗣️ Most Used Languages
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
@@ -108,7 +117,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PASUPULASAITEJA&theme=onedark&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+![Trophy](https://github-profile-trophy.vercel.app/?username=PASUPULASAITEJA&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=4)
 
 </div>
 
