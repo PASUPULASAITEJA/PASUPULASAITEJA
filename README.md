@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=👋+Hey!+I'm+Sai+Teja;🎓+B.Tech+CS+(Data+Science)+%40+NMIMS;🤖+ML+%7C+AI+%7C+Cloud+Enthusiast;☁️+AWS+%26+GCP+Learner;🧩+LeetCode+Problem+Solver;🚀+Building+%7C+Learning+%7C+Growing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=👋+Hey!+I'm+Sai+Teja;🎓+B.Tech+CS+(Data+Science)+%40+NMIMS;🤖+ML+%7C+AI+%7C+Cloud+Enthusiast;☁️+AWS+%26+GCP+Learner;🧩+LeetCode+Problem+Solver;🚀+Building+%7C+Learning+%7C+Growing" alt="Typing SVG" />
 
 </div>
 
@@ -116,7 +116,7 @@ Status   : Fresher | Open to Opportunities
 <img src="https://github-stats-alpha.vercel.app/api?username=PASUPULASAITEJA&cc=0D1117&tc=00D9FF&ic=0A84FF&bc=30363d" alt="GitHub Stats"/>
 </td>
 <td align="center">
-<img src="https://streak-stats.demolab.com?user=PASUPULASAITEJA&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="Streak Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=PASUPULASAITEJA&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="Streak Stats"/>
 </td>
 </tr>
 </table>
@@ -153,11 +153,14 @@ Status   : Fresher | Open to Opportunities
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=✨+Always+Learning%2C+Building+and+Improving+🚀;💼+Open+to+Internships+%26+Opportunities;🤝+Let's+Collaborate+and+Build+Something+Amazing!" alt="Footer" />
-
-<br/><br/>
+<br/>
 
 > *"The best way to predict the future is to build it."*
+
+<br/>
+
+![Wave](https://img.shields.io/badge/✨%20Always%20Learning%2C%20Building%20and%20Improving-0A84FF?style=for-the-badge)
+![Wave](https://img.shields.io/badge/💼%20Open%20to%20Internships%20%26%20Opportunities-00D9FF?style=for-the-badge)
 
 <br/>
 
