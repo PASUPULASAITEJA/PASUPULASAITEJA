@@ -113,11 +113,18 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Highlights
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=PASUPULASAITEJA&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=4)
+| 🎯 Focus Areas | 📌 Status |
+|:---|:---|
+| 🤖 Machine Learning & AI | 🟢 Actively Learning |
+| ☁️ AWS Cloud Practitioner | 🟡 In Progress |
+| ☁️ Google Cloud (GCP) | 🟡 In Progress |
+| 💻 Data Structures & Algorithms | 🟢 LeetCode Practice |
+| 📊 Data Analytics & Power BI | 🟢 Project Experience |
+| 🌐 Full Stack Web Development | 🟢 Working Knowledge |
 
 </div>
 
