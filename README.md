@@ -125,8 +125,7 @@ Status   : Fresher | Open to Opportunities
 ![Followers](https://img.shields.io/badge/Followers-1-FF6B6B?style=for-the-badge&logo=github&logoColor=white)
 ![Repos](https://img.shields.io/badge/Public%20Repos-6-F7931E?style=for-the-badge&logo=github&logoColor=white)
 
-> 🔥 **Commit daily to grow your streak!** Even 1 push/day keeps it alive.  
-> ⏰ **Always commit before 11:30 PM IST** (midnight UTC) to avoid streak reset.
+
 
 </div>
 
