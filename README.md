@@ -110,16 +110,28 @@ Status   : Fresher | Open to Opportunities
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
-<img src="https://github-stats-alpha.vercel.app/api?username=PASUPULASAITEJA&cc=0D1117&tc=00D9FF&ic=0A84FF&bc=30363d" alt="GitHub Stats"/>
-</td>
-<td align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=PASUPULASAITEJA&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="Streak Stats"/>
-</td>
-</tr>
-</table>
+<img src="https://github-stats-alpha.vercel.app/api?username=PASUPULASAITEJA&cc=0D1117&tc=00D9FF&ic=0A84FF&bc=30363d" alt="GitHub Stats" height="150"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=PASUPULASAITEJA&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=0A84FF&text_color=ffffff" alt="Stats Card" height="150"/>
+
+</div>
+
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+
+| 📅 Tracking | 🔢 Count |
+|:---|:---:|
+| Total Contributions (2024–Present) | **85** |
+| Current Streak | Keep committing daily! 🔥 |
+| Best Streak | Every day counts! 💪 |
+| Commit before 11:30 PM IST daily | ⏰ Stay consistent! |
+
+> 💡 **Tip:** Even 1 commit/day keeps your streak alive. Push a LeetCode solution every night!
 
 </div>
 
@@ -159,8 +171,8 @@ Status   : Fresher | Open to Opportunities
 
 <br/>
 
-![Wave](https://img.shields.io/badge/✨%20Always%20Learning%2C%20Building%20and%20Improving-0A84FF?style=for-the-badge)
-![Wave](https://img.shields.io/badge/💼%20Open%20to%20Internships%20%26%20Opportunities-00D9FF?style=for-the-badge)
+![](https://img.shields.io/badge/✨%20Always%20Learning%2C%20Building%20and%20Improving-0A84FF?style=for-the-badge)
+![](https://img.shields.io/badge/💼%20Open%20to%20Internships%20%26%20Opportunities-00D9FF?style=for-the-badge)
 
 <br/>
 
