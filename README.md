@@ -38,7 +38,7 @@ Status   : Fresher | Open to Opportunities
 
 <div align="center">
 
-**Languages**
+**💻 Languages**
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -46,25 +46,25 @@ Status   : Fresher | Open to Opportunities
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Web Development**
+**🌐 Web Development**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-**AI / Machine Learning**
+**🤖 AI / Machine Learning**
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**Cloud Platforms**
+**☁️ Cloud Platforms**
 
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-**Tools & Analytics**
+**🧰 Tools & Analytics**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -110,28 +110,23 @@ Status   : Fresher | Open to Opportunities
 
 <div align="center">
 
-<img src="https://github-stats-alpha.vercel.app/api?username=PASUPULASAITEJA&cc=0D1117&tc=00D9FF&ic=0A84FF&bc=30363d" alt="GitHub Stats" height="150"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=PASUPULASAITEJA&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=0A84FF&text_color=ffffff" alt="Stats Card" height="150"/>
+<img src="https://github-stats-alpha.vercel.app/api?username=PASUPULASAITEJA&cc=0D1117&tc=00D9FF&ic=0A84FF&bc=30363d" alt="GitHub Stats"/>
 
 </div>
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 Contribution Streak
 
 <div align="center">
 
-| 📅 Tracking | 🔢 Count |
-|:---|:---:|
-| Total Contributions (2024–Present) | **85** |
-| Current Streak | Keep committing daily! 🔥 |
-| Best Streak | Every day counts! 💪 |
-| Commit before 11:30 PM IST daily | ⏰ Stay consistent! |
+![Total Contributions](https://img.shields.io/badge/Total%20Contributions-87-00D9FF?style=for-the-badge&logo=github&logoColor=white)
+![Since](https://img.shields.io/badge/Since-Mar%202024-0A84FF?style=for-the-badge&logo=github&logoColor=white)
+![Followers](https://img.shields.io/badge/Followers-1-FF6B6B?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Public%20Repos-6-F7931E?style=for-the-badge&logo=github&logoColor=white)
 
-> 💡 **Tip:** Even 1 commit/day keeps your streak alive. Push a LeetCode solution every night!
+> 🔥 **Commit daily to grow your streak!** Even 1 push/day keeps it alive.  
+> ⏰ **Always commit before 11:30 PM IST** (midnight UTC) to avoid streak reset.
 
 </div>
 
